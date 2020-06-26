@@ -12,7 +12,7 @@
 ## Machine Learning task : 
 - Binary Classification {Defaulter:1 , Non- Defaulter:0}
 
-##Evaluation Metric:
+## Evaluation Metric:
 - Since the data was imbalanced, So , metric used is ROC-AUC
 
 ## Approach
