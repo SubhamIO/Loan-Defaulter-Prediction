@@ -15,6 +15,10 @@
 ## Evaluation Metric:
 - Since the data was imbalanced, So , metric used is ROC-AUC
 
+## Work done : 
+- Loan_DefaulterPrediction_ipynbEDA.ipynb : For Exploratory Data Analysis
+- Loan_DefaulterPredictionModelling.ipynb : For Data Aquisition to Modelling
+
 ## Approach
 - Load data
 - Exploratory Data Analysis
